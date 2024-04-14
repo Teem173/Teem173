@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studying mecanical engineering in EPFL
+- 🔭 I’m currently studying mechanical engineering in EPFL
 - 🌱 I’m currently learning C
 - ⚡ Fun fact: I'm cool
 <!--
